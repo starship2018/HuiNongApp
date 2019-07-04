@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_list.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\layout\\activity_ptr_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_list_fragment.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\layout\\activity_ptr_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_from_top.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\raw_reset_sound.mp3.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\raw\\reset_sound.mp3"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_android.png.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\drawable-xhdpi\\android.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_refresh_header_vertical.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_from_bottom.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_to_bottom.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_scrollview.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\layout\\activity_ptr_scrollview.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_expandable_list.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\layout\\activity_ptr_expandable_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_bg_bottom.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\raw_pull_event.mp3.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\raw\\pull_event.mp3"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_default_ptr_rotate.png.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_default_ptr_flip.png.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_default_ptr_flip.png.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_grid.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\layout\\activity_ptr_grid.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_default_ptr_flip.png.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_webview.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\layout\\activity_ptr_webview.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_wallpaper.jpg.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\drawable-nodpi\\wallpaper.jpg"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_default_ptr_rotate.png.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_to_top.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_refresh_header_horizontal.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\layout_layout_listview_in_viewpager.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\layout\\layout_listview_in_viewpager.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_webview2.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\layout\\activity_ptr_webview2.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_indicator_arrow.png.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_list_in_vp.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\layout\\activity_ptr_list_in_vp.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_indicator_arrow.png.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\layout_need_this_for_maven.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\pullToRefreshListFragment\\build\\intermediates\\packaged_res\\debug\\layout\\need_this_for_maven.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_indicator_arrow.png.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_bg_top.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_default_ptr_rotate.png.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_android.png.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\drawable-hdpi\\android.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_viewpager.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\layout\\activity_ptr_viewpager.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\raw_refreshing_sound.mp3.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\raw\\refreshing_sound.mp3"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_horizontalscrollview.xml.flat",
+        "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\layout\\activity_ptr_horizontalscrollview.xml"
+    }
+]

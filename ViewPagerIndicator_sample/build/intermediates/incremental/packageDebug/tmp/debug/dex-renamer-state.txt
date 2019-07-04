@@ -1,0 +1,4 @@
+#Sat Jun 01 11:37:52 CST 2019
+base.0=D\:\\AndroidDemo\\test3\\ViewPagerIndicator_sample\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

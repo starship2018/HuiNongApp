@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Jun 16 18:02:09 CST 2019
+1.base=D\:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\merged_assets\\debug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+1.path=ptr_webview2_sample.html

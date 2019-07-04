@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@android:color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <com.galaxy.test3.view.NoScrollViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp">
+
+    </com.galaxy.test3.view.NoScrollViewPager>
+
+    <RadioGroup
+        android:id="@+id/rg_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="horizontal">
+
+
+        <RadioButton
+            android:id="@+id/rb_data"
+            android:drawableTop="@drawable/rb_data_drawable_selector"
+            android:text="农科"
+            android:textSize="12sp"
+            android:gravity="center"
+            style="@style/bottom_tag_style" />
+        <RadioButton
+            android:id="@+id/rb_home"
+            android:drawableTop="@drawable/rb_home_drawable_selector"
+            android:text="资讯"
+            android:textSize="12sp"
+            android:gravity="center"
+            style="@style/bottom_tag_style" />
+
+        <RadioButton
+        android:id="@+id/rb_calculate"
+        android:drawableTop="@drawable/rb_calculate_drawable_selector"
+        android:text="惠农"
+            android:textSize="12sp"
+
+            android:gravity="center"
+        style="@style/bottom_tag_style" />
+
+        <RadioButton
+            android:id="@+id/rb_usercenter"
+            android:drawableTop="@drawable/rb_usercenter_drawable_selector"
+            android:text="我的"
+            android:textSize="12sp"
+            android:gravity="center"
+            style="@style/bottom_tag_style" />
+
+
+
+    </RadioGroup>
+</LinearLayout>

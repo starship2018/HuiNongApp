@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textSize="30sp"
+    android:padding="30dp"
+    android:drawablePadding="20dp"
+    android:enabled="false"
+    android:drawableLeft="@drawable/item_leftmenu_selector"
+    android:textColor="@drawable/item_leftmenu_textcolor_selector"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="新闻">
+<!--这上面的“新闻”只是初始数据，后面在生成View的时候还是需要实时进行修改的！可以理解为占位符!-->
+
+
+</TextView>

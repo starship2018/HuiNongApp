@@ -1,0 +1,351 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,139,211",
+                        "endColumns": "83,71,91",
+                        "endOffsets": "134,206,298"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-zh_values-zh.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,116,183",
+                        "endColumns": "60,66,63",
+                        "endOffsets": "111,178,242"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-iw\\values-iw.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,123,190",
+                        "endColumns": "67,66,70",
+                        "endOffsets": "118,185,256"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-pt-rBR\\values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,131,204",
+                        "endColumns": "75,72,80",
+                        "endOffsets": "126,199,280"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,121,188",
+                        "endColumns": "65,66,68",
+                        "endOffsets": "116,183,252"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,146,260,368,447,521",
+                        "endColumns": "90,113,107,78,73,80",
+                        "endOffsets": "141,255,363,442,516,597"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-he_values-he.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-he\\values-he.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,123,190",
+                        "endColumns": "67,66,70",
+                        "endOffsets": "118,185,256"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,119,183,238,295,350,388,428,465,567,681,789,861,931,1009",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,90",
+                        "endColumns": "63,63,54,56,54,37,39,36,101,113,107,71,69,77,24",
+                        "endOffsets": "114,178,233,290,345,383,423,460,562,676,784,856,926,1004,4522"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10,14,15,16,17,18,19,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,119,183,238,295,350,388,467,3525,3627,3741,3849,3921,3991,4418",
+                        "endLines": "2,3,4,5,6,7,8,10,14,15,16,17,18,19,101",
+                        "endColumns": "63,63,54,56,54,37,39,36,101,113,107,71,69,77,24",
+                        "endOffsets": "114,178,233,290,345,383,423,499,3622,3736,3844,3916,3986,4064,7931"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "115",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "459"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "4069",
+                        "endLines": "26",
+                        "endColumns": "12",
+                        "endOffsets": "4413"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidDemo\\test3\\pullToRefreshViewPager\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "38",
+                        "endOffsets": "89"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "428",
+                        "endColumns": "38",
+                        "endOffsets": "462"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,5,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "126,184,56",
+                        "endColumns": "57,2892,69",
+                        "endOffsets": "179,3072,121"
+                    },
+                    "to": {
+                        "startLines": "11,12,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "504,562,3455",
+                        "endColumns": "57,2892,69",
+                        "endOffsets": "557,3450,3520"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,134,202",
+                        "endColumns": "78,67,84",
+                        "endOffsets": "129,197,282"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,136,204",
+                        "endColumns": "80,67,86",
+                        "endOffsets": "131,199,286"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,133,204",
+                        "endColumns": "77,70,81",
+                        "endOffsets": "128,199,281"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,124,192",
+                        "endColumns": "68,67,71",
+                        "endOffsets": "119,187,259"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,133,206",
+                        "endColumns": "77,72,83",
+                        "endOffsets": "128,201,285"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,133,204",
+                        "endColumns": "77,70,82",
+                        "endOffsets": "128,199,282"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,136,210",
+                        "endColumns": "80,73,78",
+                        "endOffsets": "131,205,284"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,135,206",
+                        "endColumns": "79,70,83",
+                        "endOffsets": "130,201,285"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,131,204",
+                        "endColumns": "75,72,83",
+                        "endOffsets": "126,199,283"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-it\\values-it.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,131,205",
+                        "endColumns": "75,73,81",
+                        "endOffsets": "126,200,282"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidDemo\\test3\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AndroidDemo\\test3\\PullToRefresh_library\\build\\intermediates\\packaged_res\\debug\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,120,188",
+                        "endColumns": "64,67,66",
+                        "endOffsets": "115,183,250"
+                    }
+                }
+            ]
+        }
+    ]
+}

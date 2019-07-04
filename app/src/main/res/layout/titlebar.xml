@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@android:color/holo_red_light"
+    android:layout_height="50sp">
+    <TextView
+         android:id="@+id/tv_title"
+         android:text="标题"
+         android:textSize="20sp"
+         android:textColor="@android:color/white"
+         android:layout_centerInParent="true"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content" />
+    <ImageButton
+         android:id="@+id/ib_menu"
+         android:src="@drawable/icon_menu"
+         android:background="@android:color/transparent"
+         android:layout_marginLeft="8dp"
+         android:layout_centerVertical="true"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:visibility="gone"/>
+    <ImageButton
+        android:id="@+id/ib_back"
+        android:src="@drawable/back"
+        android:background="@android:color/transparent"
+        android:layout_marginLeft="8dp"
+        android:layout_centerVertical="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <LinearLayout
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="8dp"
+        android:layout_centerVertical="true"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/ib_textsize"
+            android:src="@drawable/icon_textsize"
+            android:background="@android:color/transparent"
+            android:layout_marginLeft="8dp"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"/>
+
+
+        <ImageButton
+
+            android:id="@+id/ib_share"
+            android:src="@drawable/icon_share"
+            android:background="@android:color/transparent"
+            android:layout_marginLeft="8dp"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"/>
+
+
+
+    </LinearLayout>
+
+    <ImageButton
+        android:layout_alignParentRight="true"
+        android:id="@+id/ib_switch_list_grid"
+        android:src="@drawable/icon_pic_grid_type"
+        android:background="@android:color/transparent"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="20dp"
+        android:scaleX="1.3"
+        android:scaleY="1.3"
+        android:layout_centerVertical="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+</RelativeLayout>

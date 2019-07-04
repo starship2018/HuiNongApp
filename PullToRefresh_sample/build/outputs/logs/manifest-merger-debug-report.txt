@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:2:1-69:12
+MERGED from [:pullToRefreshListFragment] D:\AndroidDemo\test3\pullToRefreshListFragment\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:pullToRefreshViewPager] D:\AndroidDemo\test3\pullToRefreshViewPager\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:PullToRefresh_library] D:\AndroidDemo\test3\PullToRefresh_library\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml
+application
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:9:5-62:19
+MERGED from [:pullToRefreshListFragment] D:\AndroidDemo\test3\pullToRefreshListFragment\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-20
+MERGED from [:pullToRefreshListFragment] D:\AndroidDemo\test3\pullToRefreshListFragment\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-20
+MERGED from [:pullToRefreshViewPager] D:\AndroidDemo\test3\pullToRefreshViewPager\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:pullToRefreshViewPager] D:\AndroidDemo\test3\pullToRefreshViewPager\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:PullToRefresh_library] D:\AndroidDemo\test3\PullToRefresh_library\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:PullToRefresh_library] D:\AndroidDemo\test3\PullToRefresh_library\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:12:9-41
+	android:hardwareAccelerated
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:10:9-43
+	android:icon
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:11:9-38
+activity#com.handmark.pulltorefresh.samples.LauncherActivity
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:15:13-50
+	android:name
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:14:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:19:27-74
+activity#com.handmark.pulltorefresh.samples.PullToRefreshListActivity
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:22:9-25:20
+	android:label
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:24:13-41
+	android:name
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:23:13-54
+activity#com.handmark.pulltorefresh.samples.PullToRefreshListFragmentActivity
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:26:9-29:20
+	android:label
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:28:13-50
+	android:name
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:27:13-62
+activity#com.handmark.pulltorefresh.samples.PullToRefreshListInViewPagerActivity
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:30:9-33:20
+	android:label
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:32:13-54
+	android:name
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:31:13-65
+activity#com.handmark.pulltorefresh.samples.PullToRefreshGridActivity
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:34:9-37:20
+	android:label
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:36:13-41
+	android:name
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:35:13-54
+activity#com.handmark.pulltorefresh.samples.PullToRefreshExpandableListActivity
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:40:13-51
+	android:name
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:39:13-64
+activity#com.handmark.pulltorefresh.samples.PullToRefreshWebViewActivity
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:42:9-45:20
+	android:label
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:44:13-40
+	android:name
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:43:13-57
+activity#com.handmark.pulltorefresh.samples.PullToRefreshScrollViewActivity
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:47:13-60
+activity#com.handmark.pulltorefresh.samples.PullToRefreshHorizontalScrollViewActivity
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:50:9-53:20
+	android:label
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:52:13-53
+	android:name
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:51:13-70
+activity#com.handmark.pulltorefresh.samples.PullToRefreshViewPagerActivity
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:54:9-57:20
+	android:label
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:56:13-42
+	android:name
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:55:13-59
+activity#com.handmark.pulltorefresh.samples.PullToRefreshWebView2Activity
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:58:9-61:20
+	android:label
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:60:13-49
+	android:name
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:59:13-58
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:65:5-67
+	android:name
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:65:22-64
+supports-screens
+ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:67:5-51
+	android:anyDensity
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:67:23-48
+uses-sdk
+INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml
+MERGED from [:pullToRefreshViewPager] D:\AndroidDemo\test3\pullToRefreshViewPager\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:pullToRefreshViewPager] D:\AndroidDemo\test3\pullToRefreshViewPager\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:PullToRefresh_library] D:\AndroidDemo\test3\PullToRefresh_library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:PullToRefresh_library] D:\AndroidDemo\test3\PullToRefresh_library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:2:1-69:12 reason: com.handmark.pulltorefresh.extras.listfragment has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:2:1-69:12 reason: com.handmark.pulltorefresh.extras.listfragment has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\AndroidDemo\test3\PullToRefresh_sample\src\main\AndroidManifest.xml:2:1-69:12 reason: com.handmark.pulltorefresh.extras.listfragment requested WRITE_EXTERNAL_STORAGE

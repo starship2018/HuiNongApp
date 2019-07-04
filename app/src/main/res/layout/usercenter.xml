@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="#F3F0F1"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+
+            android:src="@android:color/white"
+            android:layout_width="match_parent"
+            android:layout_height="188dp" />
+        <ImageView
+            android:layout_marginTop="35dp"
+            android:scaleX="1"
+            android:scaleY="1"
+            android:src="@drawable/usericon4"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp" />
+
+        <TextView
+
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="140dp"
+            android:text="欢迎！"
+
+            android:typeface="monospace"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tv_username"
+
+            android:text="18710963061"
+
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="180dp"
+            android:layout_marginTop="140dp"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+
+        android:background="@android:color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/v_about"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="@android:color/black"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="12dp"
+                android:layout_marginBottom="12dp"
+                android:text="关于"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:id="@+id/v_query"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="@android:color/black"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="12dp"
+                android:layout_marginBottom="12dp"
+                android:text="用户查询（测试专用）"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_quit_login"
+        android:layout_gravity="center"
+        android:padding="12dp"
+        android:layout_marginTop="30dp"
+        android:text="退出登陆"
+        android:textColor="@android:color/white"
+        android:textSize="22sp"
+        android:background="#F6265A"
+        android:orientation="horizontal"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content">
+    </Button>
+
+
+</LinearLayout>

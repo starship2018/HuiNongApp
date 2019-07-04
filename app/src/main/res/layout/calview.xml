@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#ECF0F1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_marginLeft="20sp"
+        android:layout_marginTop="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="第一步：选择输入项！"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/btnFen"
+            android:textColor="@android:color/black"
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:text="粪便"
+            android:textSize="20sp"
+            android:checked="true"/>
+
+        <RadioButton
+            android:layout_marginLeft="50dp"
+            android:id="@+id/btnDao"
+            android:textColor="@android:color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="秸秆"/>
+    </RadioGroup>
+
+    <TextView
+        android:layout_marginLeft="20sp"
+        android:layout_marginTop="100sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="第二步：输入数值！"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/inputView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="140sp"
+        android:inputType="number"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:background="@drawable/shape_wihte_frame"
+
+        android:selectAllOnFocus="true"
+        android:layout_width="150dp"
+        android:layout_height="50dp" />
+
+    <View
+        android:layout_marginTop="190dp"
+        android:background="@android:color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_width="150dp"
+        android:layout_height="2dp"></View>
+
+    <TextView
+        android:layout_marginLeft="20sp"
+        android:layout_marginTop="220dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="经过计算，堆肥应使用的材料用量为："
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <LinearLayout
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="260dp"
+        android:orientation="vertical"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_marginBottom="20dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_marginLeft="40dp"
+                android:src="@drawable/fen"
+
+                android:layout_width="60dp"
+                android:layout_height="60dp" />
+            <TextView
+                android:textAlignment="center"
+
+                android:layout_marginLeft="100dp"
+                android:layout_centerVertical="true"
+                android:id="@+id/out_fen"
+                android:paddingLeft="30dp"
+                android:textSize="30sp"
+                android:layout_gravity="center_vertical"
+                android:text=""
+                android:textColor="@android:color/black"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_centerVertical="true"
+
+                android:paddingLeft="20dp"
+                android:layout_marginLeft="250dp"
+                android:layout_gravity="center_vertical"
+                android:textColor="@android:color/black"
+
+                android:text="公斤(粪便)"
+                android:textSize="20sp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_marginBottom="20dp"
+
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_marginLeft="40dp"
+                android:src="@drawable/dao1"
+
+                android:layout_width="60dp"
+                android:layout_height="60dp" />
+
+
+            <TextView
+                android:textAlignment="center"
+
+                android:layout_marginLeft="100dp"
+                android:layout_centerVertical="true"
+                android:id="@+id/out_dao"
+                android:paddingLeft="30dp"
+                android:textSize="30sp"
+                android:layout_gravity="center_vertical"
+                android:text=""
+                android:textColor="@android:color/black"
+
+                android:layout_width="150dp"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:paddingLeft="20dp"
+                android:text="公斤(秸秆)"
+                android:textSize="20sp"
+                android:layout_marginLeft="250dp"
+                android:layout_centerVertical="true"
+
+                android:textColor="@android:color/black"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+
+        <RelativeLayout
+
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_marginLeft="40dp"
+                android:src="@drawable/water"
+                android:layout_width="60dp"
+                android:layout_height="60dp" />
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_marginLeft="100dp"
+                android:layout_centerVertical="true"
+                android:id="@+id/out_water"
+                android:paddingLeft="30dp"
+                android:textSize="30sp"
+                android:layout_gravity="center_vertical"
+                android:text=""
+                android:textColor="@android:color/black"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:paddingLeft="20dp"
+                android:text="公斤(水分)"
+                android:textSize="20sp"
+                android:layout_marginLeft="250dp"
+                android:layout_centerVertical="true"
+                android:textColor="@android:color/black"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:text="本程序参考《中国秸秆资源数量估算》，《畜禽粪便堆肥技术》等资料进行计算，由于自然，人为等不可控因素，造成的误差难以避免，因此本程序计算数值仅供参考，具体情况请结合实际进行实施！"
+            android:textColor="@android:color/black"
+            android:textSize="12sp"
+            android:layout_width="360dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+
+</RelativeLayout>
